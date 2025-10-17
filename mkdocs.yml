@@ -1,0 +1,7 @@
+site_name: CVN Demo
+site_url: https://cg-edulabs.github.io/demo-doc/
+theme:
+  name: material
+nav:
+  - Home: index.md
+repo_url: https://github.com/cg-edulabs/demo-doc
